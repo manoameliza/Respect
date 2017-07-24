@@ -13,7 +13,7 @@ Após algumas peguntas respondidas, este aplicativo lhe guiará para tomar algum
 
   A quem esse aplicativo se destina?
 
-Toda pessoa que sofrer algum tipo de desrespeito, nomeadamente assédio sexual, assédio pisicólógico, assédio moral e bullying.
+Toda pessoa que sofrer algum tipo de abuso, nomeadamente assédio sexual, assédio pisicólógico, assédio moral e bullying.
 
 Acreditamos que ninguém tem o direito de fazer com que outro se sinta mal, seja por humilhação, cara feia, apelido, menosprezo, agressão verbal ou física, dentre outras formas de desrespeito.
 
